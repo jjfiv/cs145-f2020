@@ -27,8 +27,8 @@ An online, always up-to-date version of [this syllabus can be found online](http
 
 ## Course Modalities
 
-- ***Lectures will be delivered asynchronously*** (with reading quizzes replacing traditional labs). 
-- ***Labs will be run remotely, but synchronously*** with a focus on supporting the weekly assignments.
+- ***Lectures will be delivered asynchronously*** (with homework or "reading quizzes" replacing traditional labs). 
+- ***Labs will be run remotely, but synchronously*** with a focus on discussing the homework and supporting the weekly assignments.
 
 ## Waiver Policy
 
@@ -95,7 +95,7 @@ Since this course will be run virtually we will need to use software in addition
 
 ### Zoom (emphasizing synchronous audio)
 
-Our synchronous lab times will be conducted over Zoom, where we will occasionally use breakout rooms or share screens but we will focus on getting started with and having real-time discussions about the new assignments each week. It is likely Zoom will be required for many of your other courses.
+Our synchronous lab times will be conducted over Zoom, where we will occasionally use breakout rooms or share screens but we will focus on getting started with and having real-time discussions about the new projects each week. It is likely Zoom will be required for many of your other courses.
 
 Look for the Zoom link for your lab in your lab-channel on Slack!
 
@@ -129,36 +129,36 @@ CS145 has no officially scheduled lecture session, but you will have been enroll
 
 You are expected to attend our synchronous "lab" times each week. We will cover a lot of material asynchronously through the week (expect materials to be posted by Monday morning).
 
-### Weekly Assignment Dates
+### Weekly Project Dates
 
-In order to simplify our management of the course, the goal is for us to have consistent days each week to expect new material and assignments. 
+In order to simplify our management of the course, the goal is for us to have consistent days each week to expect new material and projects. 
 
 #### Mondays: Readings & Homework
 
 Video Content & Weekly "Quiz" will be made available so you can begin reading, discussing, and trying examples whenever you start every Monday.
 
-#### Wednesdays: Assignment Due & Available
+#### Wednesdays: Projects Due & Available
 
-The assignment for the week will be released by Wednesday -- if you feel comfortable with the readings for the week you may begin early. 
+The project for the week will be released by Wednesday -- if you feel comfortable with the readings for the week you may begin early. 
 
-The assignment for the previous week will be due Wednesday at Midnight.
+The project for the previous week will be due Wednesday at Midnight.
 
 #### Thursdays/Fridays: Lab Session
 
-Lab sessions W,X,Y and Z are scheduled on Thursdays & Fridays. It is important that you come to the beginning of the lab section even if you feel you have managed to complete the weekly assignment and readings independently.
+Lab sessions W,X,Y and Z are scheduled on Thursdays & Fridays. It is important that you come to the beginning of the lab section even if you feel you have managed to complete the weekly project and readings independently.
 
 ### Deadline Conflicts
 
-While assignments are formally due every Wednesday, if you have recurring family or work responsibilities on Wednesdays, please let the instructor know as soon as possible, and we can work out a more feasible deadline for your situation. The value in a schedule is not usually the exact hard deadlines but rather in ensuring that our learning proceeds together, at a reasonable pace.
+While projects are formally due every Wednesday, if you have recurring family or work responsibilities on Wednesdays, please let the instructor know as soon as possible, and we can work out a more feasible deadline for your situation. The value in a schedule is not usually the exact hard deadlines but rather in ensuring that our learning proceeds together, at a reasonable pace.
 
 ## Grading Information
 
-The following grading structure is meant to emphasize the importance of weekly readings, homework, and assignments while also including the midterm and final exams. Midterm and Final exams will likely include questions and ideas drawn directly from the homework and assignments.
+The following grading structure is meant to emphasize the importance of weekly readings, homework, and projects while also including the midterm and final exams. Midterm and Final exams will likely include questions and ideas drawn directly from the homework and projects.
 
 Section | Weighting
 --------|----------
-Assignments | 40%
 Readings & Homework | 20%
+Projects | 40%
 Midterm | 20%
 Final | 20%
 
@@ -173,15 +173,13 @@ Final | 20%
 
 Work in computer science may often feel like a strange mix of art, language, mathematics, and logic. What sets this course apart from some of these other domains is the ability to instantaneously consult a "gold standard" for most of your work.
 
-***Does your python program work?*** A lot of the time, you can run it immediately, and find out. When we go to grade assignments, often we can only tell whether or not it works.
+***Does your python program work?*** A lot of the time, you can run it immediately, and find out. When we go to assess homework and projects, often we can only tell whether or not it works -- we can't tell if you understand it.
 
 ***Do you understand your work?*** Especially in introductory CS courses, where the solutions are usually not that long, you can often land on a solution by making a small change, and not fully understand why it works now and it didn't before. You must take charge of your personal learning. Do not settle for "it works" if you do not understand why -- ask a question!
 
 When you get the opportunity to discuss your work with other students, ensure that everyone leaves the group discussion with the same level of understanding. ***A working solution you do not understand has no value to your learning.***
 
-Because the solutions to our assignments are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stackoverflow. ***A working solution you do not understand has no value to your learning.*** 
-
-> TODO: cite snippet of honor code
+Because the solutions to our projects (in this course) are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stackoverflow. ***A working solution you do not understand has no value to your learning.*** 
 
 ## Universal Access & Accomodations
 
@@ -191,16 +189,15 @@ The Disability Resource Center (DRC) at Middlebury provides for student accomoda
 
 If you have any accomodations through this office, please notify the instructor as soon as possible at the start of the semester so that your accomodation can be supported as quickly as possible.
 
-
 I try to create course materials with "Universal Design" in mind: that is, I try to make it so that all materials can be accomplished fairly by all students: for example, I schedule double the expected time by default on all exams.
 
 If there is any change that can be made to the course materials that would improve your learning, don't hesitate to ask or suggest such changes.
 
 ## Preliminary Schedule
 
-| Week | Start  | Discussion Topics | Readings | Assignment Topics | 
+| Week | Start  | Discussion Topics | Readings | Projects Topics | 
 |------|--------|-------------------|----------|-------------------|
-| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | A0: Slack, Thonny |
-| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | A1: Variables & Arithmetic |
-| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | A2: Decisions/Recursion |
-| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | A3: Recursion/Loops |
+| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | P0: Slack, Thonny |
+| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | P1: Variables & Arithmetic |
+| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | P2: Decisions/Recursion |
+| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | P3: Recursion/Loops |
