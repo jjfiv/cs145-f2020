@@ -19,5 +19,5 @@ markdown_extensions:
 # Reading: 📖
 # Video: 📺
 nav:
-    - 'About': 'README.md'
+    - 'About': 'index.md'
     - 'syllabus.md'
