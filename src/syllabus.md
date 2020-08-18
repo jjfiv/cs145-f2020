@@ -28,7 +28,7 @@ An online, always up-to-date version of [this syllabus can be found online](http
 ## Course Modalities
 
 - ***Lectures will be delivered asynchronously*** (with homework or "reading quizzes" replacing traditional labs). 
-- ***Labs will be run remotely, but synchronously*** with a focus on discussing the homework and supporting the weekly assignments.
+- ***Labs will be run remotely, but synchronously*** with a focus on discussing the homework and supporting the weekly programming assignments ("projects").
 
 ## Waiver Policy
 
