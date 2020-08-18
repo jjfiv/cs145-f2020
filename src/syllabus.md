@@ -52,42 +52,29 @@ This is an introductory computer science class and ***no prior experience is exp
 - Computer architecture
 - Program complexity
 
-## Readings & Homework
+## Readings / Textbook
 
 The primary mode of content delivery will be through readings and the homework, which is designed to highlight and encourage discussion over particular aspects of the readings. 
 
-### Readings/Textbook: Think Python
+### Think Python
 
 We will be reading primarily from the free ***Think Python Textbook*** which is available both as an [Online Web Page](http://greenteapress.com/thinkpython/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython/thinkpython.pdf). I have a paper copy, but you do not need to purchase a copy unless you prefer to read a physical book.
 
-#### Inclusivity in Think Python
+### Inclusivity in Think Python
 
 While the content and ordering of this textbook are both great, the examples leave much to be desired -- nearly every single example is drawn from the comedy routines of the British surrealist comedians "[Monty Python](https://en.wikipedia.org/wiki/Monty_Python)" ...
 
 To someone who's never seen any of their material (like me, the instructor!) that means their examples are often filled with gibberish that I don't find particularly helpful or funny.
 
-I will be supplementing the readings from this book with our own examples and alternate exercises.
+### Online Resources
 
-### Reading is not enough for Learning: Homework
+There are probably hundreds of introductory Computer Science and Python courses available online (free or paid) and so at various points we have the opportunity to supplement our knowledge with online resources. 
 
-I will often be comparing this course to a foreign language course. Learning about computers via a computer language like Python is quite similar to learning a second or third language; if you do not read, write, and speak the language, it will be difficult to make sense of concepts or to get the ideas to stick in your head.
+If I find resources I find particularly helpful, I will be sharing them on Slack. Please do the same, if you find resources that answer your own questions.
 
-To guide and demonstrate good learning practice, each of our readings will be accompanied by a handful of (mostly) multiple choice questions. These questions will be more difficult than those designed for exams, because the goal of them is to drive experimentation and discussion, rather than to check knowledge. I will freely discuss the correct answers to these questions in our synchronous labs, after which you will have the opportunity to update your answers.
+### Course-Videos
 
-I imagine that a successful strategy to learn from the homework & readings will be to:
-
-1. Read the chapters and take some notes.
-2. Attempt the "homework quizzes".
-    - Try to assess your knowledge/notes: keep the book "closed". 
-    - Guess on questions that ask "What does this code do?"
-3. Use your experience of homework to guide your learning:
-    - Re-read any sections on which you do not feel you know the correct answers.
-    - Type in and run any code from the homework to verify whether your guesses are correct.
-4. Review the homework again, updating your answers based on your closer reading.
-5. Ask questions and share knowledge on Slack. 
-    - I will be fairly quiet here (focusing on clarifications, and giving thumbs-up to good discussions).
-6. Ask questions synchronously in lab.
-7. "Perfect" your homework answers & notes after lab.
+Given the textbook and a variety of online materials that are available, the primary content I will be creating for this course will videos demonstrating hands-on use of our software "Thonny" as well as material to summarize and guide discussion, like our homework "quizzes".
 
 ## Course Equipment & Software
 
@@ -162,6 +149,7 @@ Projects | 40%
 Midterm | 20%
 Final | 20%
 
+Because homework may be perfected and resubmitted through our lab sections, it may be fair to characterize "Readings & Homeworks" as discussion or participation.
 
 ## Academic Honesty at Middlebury
 
@@ -192,6 +180,29 @@ If you have any accomodations through this office, please notify the instructor 
 I try to create course materials with "Universal Design" in mind: that is, I try to make it so that all materials can be accomplished fairly by all students: for example, I schedule double the expected time by default on all exams.
 
 If there is any change that can be made to the course materials that would improve your learning, don't hesitate to ask or suggest such changes.
+
+## Student Expectations / Learning Strategy
+
+I will often be comparing this course to a foreign language course. Learning about computers via a computer language like Python is quite similar to learning a second or third language; if you do not read, write, and speak the language, it will be difficult to make sense of concepts or to get the ideas to stick in your head.
+
+To guide and demonstrate good learning practice, each of our readings will be accompanied by a handful of (mostly) multiple choice questions. These questions will be more difficult than those designed for exams, because the goal of them is to drive experimentation and discussion, rather than to check knowledge. I will freely discuss the correct answers to these questions in our synchronous labs, after which you will have the opportunity to update your answers.
+
+I imagine that a successful strategy to learn from the homework & readings will be to:
+
+1. Read the chapters and take some notes.
+2. Attempt the "homework quizzes".
+    - Try to assess your knowledge/notes: keep the book "closed". 
+    - Guess on questions that ask "What does this code do?"
+3. Use your experience of homework to guide your learning:
+    - Re-read any sections on which you do not feel you know the correct answers.
+    - Type in and run any code from the homework to verify whether your guesses are correct.
+4. Review the homework again, updating your answers based on your closer reading.
+5. Ask questions and share knowledge on Slack. 
+    - I will be fairly quiet here (focusing on clarifications, and giving thumbs-up to good discussions).
+6. Ask questions synchronously in lab.
+7. "Perfect" your homework answers & notes after lab.
+
+When projects become available on Wednesdays, you'll want to be wrapping up your knowledge from the readings so that you will be ready to work on the new assignment in the second half of lab.
 
 ## Preliminary Schedule
 
