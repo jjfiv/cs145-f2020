@@ -1,5 +1,7 @@
 # Syllabus
 
+An online, always up-to-date version of [this syllabus can be found online](http://jjfiv.github.io/cs145-f2020/syllabus.html).
+
 - Instructor: 
     - Prof. John Foley ([johnf@middlebury.edu](mailto:johnf@middlebury.edu))
 - Course Website: 
@@ -13,10 +15,15 @@
     - X - Thursday - 2-2:50pm
     - Y - Thursday - 3-3:15pm
     - Z - Friday - 10:20-11:10am
+- Office Hours
+    - TBD
+    - Always by appointment: message me in Slack and we can find a time to chat.
 
 ## TA/Tutoring Sessions
 
-Information about the tutors can be found at [go/cstutors](http://go.middlebury.edu/cstutors/)
+Information about the tutors can be found at [go/cstutors](http://go.middlebury.edu/cstutors/).
+
+***Temporary***: There is usually tutoring every day from Sunday-Thursday, i.e., every night except Fridays and Saturdays. Tutors are your near-peers: Middlebury students who have completed this course in the past and are available for you to talk through ideas, problems, and technology.
 
 ## Course Topics
 
@@ -30,6 +37,8 @@ This is an introductory computer science class and ***no prior experience is exp
 - Program complexity
 
 ## Readings & Homework
+
+The primary mode of content delivery will be through readings and the homework, which is designed to highlight and encourage discussion over particular aspects of the readings. 
 
 ### Readings/Textbook: Think Python
 
@@ -66,6 +75,8 @@ I imagine that a successful strategy to learn from the homework & readings will 
 
 ## Course Equipment & Software
 
+Since this course will be run virtually we will need to use software in addition to the course-specific software we would ordinarily setup and use.
+
 ### Zoom (emphasizing synchronous audio)
 
 Our synchronous lab times will be conducted over Zoom, where we will occasionally use breakout rooms or share screens but we will focus on getting started with and having real-time discussions about the new assignments each week. It is likely Zoom will be required for many of your other courses.
@@ -74,37 +85,106 @@ Look for the Zoom link for your lab in your lab-channel on Slack!
 
 ### Slack
 
-### Thonny
+Slack is an online, realtime chat service used by a lot of businesses and other organizinations. We will be using a free slack workspace to:
 
-We will install [Thonny](https://thonny.org/) - a program to help us learn to write Python in the first week and use it throughout the course. If you have any trouble getting this installed, reach out in Slack or in Tutoring hours.
+ - Provide a space for asking questions that is less formal than email and doesn't require a good Zoom connection.
+ - Provide a long-lasting chat space, since Zoom chat disappears at the end of a call.
+ - Provide the opportunity for students to have one-on-one or small group conversations given the course exists in virtual space this Fall.
+
+ I will be manually inviting students who are enrolled in the course to the Slack workspace in September.
+
+### Python via Thonny
+
+We will install [Thonny](https://thonny.org/) - a program to help us learn to write Python in the first week and use it throughout the course. There are installers for Mac, Windows, & Linux.
+
+If you have any trouble getting this installed, reach out in Slack or in Tutoring hours.
+
+#### Online Python Access
+
+If you have a chromebook or cannot install Thonny (please consult with the instructor if this is the case), you will also be able to access Python through a website like [repl.it](https://repl.it/languages/python3). This kind of access to Python will be far less convenient than having it on your personal computer but may be the best choice.
 
 ### Logisim
 
-Later in the course, we will explore how computers are constructed out of electrical logic gates and transistors. Logisim is software that will allow us to "build circuits" on our computers and test them. We will learn to use this software together, later in the course. 
+Later in the course, we will explore how computers are constructed out of electrical logic gates and transistors. Logisim is software that will allow us to "build circuits" on our computers and test them. We will learn to install & use this software together, later in the course. 
 
 ## Course Structure
 
-You are expected to attend our synchronous lab times each week. We will cover a lot of material asynchronously through the week (expect materials to be posted by Monday morning). We cover a lot of material each day and don’t regurgitate the book(s). We'll post examples from class and any other media we use, but do not expect to be able to simulate the class by reading the materials posted online. 
+CS145 has no officially scheduled lecture session, but you will have been enrolled in a lab section: W, X, Y, or Z.
+
+You are expected to attend our synchronous "lab" times each week. We will cover a lot of material asynchronously through the week (expect materials to be posted by Monday morning).
 
 ### Weekly Assignment Dates
 
-- Mondays - Readings & Homework: Video Content & Weekly "Quiz" will be made available so you can begin reading, discussing, and trying examples whenever you start every Monday.
-- Wednesdays - Assignment Opens: The assignment for the week will be released by Wednesday -- if you feel comfortable with the readings for the week you may begin early.
-- Thursdays/Fridays - Synchronous lab sessions are held via Zoom.
+In order to simplify our management of the course, the goal is for us to have consistent days each week to expect new material and assignments. 
+
+#### Mondays: Readings & Homework
+
+Video Content & Weekly "Quiz" will be made available so you can begin reading, discussing, and trying examples whenever you start every Monday.
+
+#### Wednesdays: Assignment Due & Available
+
+The assignment for the week will be released by Wednesday -- if you feel comfortable with the readings for the week you may begin early. 
+
+The assignment for the previous week will be due Wednesday at Midnight.
+
+#### Thursdays/Fridays: Lab Session
+
+Lab sessions W,X,Y and Z are scheduled on Thursdays & Fridays. It is important that you come to the beginning of the lab section even if you feel you have managed to complete the weekly assignment and readings independently.
 
 ### Deadline Conflicts
 
+While assignments are formally due every Wednesday, if you have recurring family or work responsibilities on Wednesdays, please let the instructor know as soon as possible, and we can work out a more feasible deadline for your situation. The value in a schedule is not usually the exact hard deadlines but rather in ensuring that our learning proceeds together, at a reasonable pace.
+
 ## Grading Information
 
-## Academic Honesty & CS
+The following grading structure is meant to emphasize the importance of weekly readings, homework, and assignments while also including the midterm and final exams. Midterm and Final exams will likely include questions and ideas drawn directly from the homework and assignments.
+
+Section | Weighting
+--------|----------
+Assignments | 40%
+Readings & Homework | 20%
+Midterm | 20%
+Final | 20%
+
+
+## Academic Honesty at Middlebury
+
+> As an academic community devoted to the life of the mind, Middlebury requires of every student complete intellectual honesty in the preparation and submission of all academic work. Details of our Academic Honesty, Honor Code, and Related Disciplinary Policies are available in Middlebury’s handbook.
+>
+> [Middlebury College Syllabus Template](http://www.middlebury.edu/academics/administration/curr_inst/teaching-expectations/basic-syllabus) retrieved 18 August 2020.
+
+### Academic Honesty & CS
+
+Work in computer science may often feel like a strange mix of art, language, mathematics, and logic. What sets this course apart from some of these other domains is the ability to instantaneously consult a "gold standard" for most of your work.
+
+***Does your python program work?*** A lot of the time, you can run it immediately, and find out. When we go to grade assignments, often we can only tell whether or not it works.
+
+***Do you understand your work?*** Especially in introductory CS courses, where the solutions are usually not that long, you can often land on a solution by making a small change, and not fully understand why it works now and it didn't before. You must take charge of your personal learning. Do not settle for "it works" if you do not understand why -- ask a question!
+
+When you get the opportunity to discuss your work with other students, ensure that everyone leaves the group discussion with the same level of understanding. ***A working solution you do not understand has no value to your learning.***
+
+Because the solutions to our assignments are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stackoverflow. ***A working solution you do not understand has no value to your learning.*** 
+
+> TODO: cite snippet of honor code
 
 ## Universal Access & Accomodations
 
-The Disability Resource Center (DRC) ...
+The Disability Resource Center (DRC) at Middlebury provides for student accomodation in courses. 
 
-## Student Expectations
+> The DRC provides support for students with disabilities and facilitates the accommodations process by helping students understand the resources and options available and by helping faculty understand how to increase access and full participation in courses. The DRC can also provide referrals for students who would like to undergo diagnostic testing. Students who are on financial aid and have never undergone diagnostic testing can apply to the CTLR for support to cover the cost of off-campus testing. DRC services are free to all students.
 
-## Campus Resources
+If you have any accomodations through this office, please notify the instructor as soon as possible at the start of the semester so that your accomodation can be supported as quickly as possible.
+
+
+I try to create course materials with "Universal Design" in mind: that is, I try to make it so that all materials can be accomplished fairly by all students: for example, I schedule double the expected time by default on all exams.
+
+If there is any change that can be made to the course materials that would improve your learning, don't hesitate to ask or suggest such changes.
 
 ## Preliminary Schedule
 
+| Week | Start  | Discussion Topics | Readings | Assignment Topics | 
+|------|--------|-------------------|----------|-------------------|
+| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | A0: Slack, Thonny |
+| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | A1: Variables & Arithmetic |
+| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | A2: Decisions/Recursion |
+| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | A3: Recursion/Loops |
