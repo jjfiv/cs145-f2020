@@ -52,13 +52,15 @@ This is an introductory computer science class and ***no prior experience is exp
 - Computer architecture
 - Program complexity
 
-## Readings / Textbook
+## Course Content
 
 The primary mode of content delivery will be through readings and the homework, which is designed to highlight and encourage discussion over particular aspects of the readings. 
 
-### Think Python
+### Textbook: Think Python
 
-We will be reading primarily from the free ***Think Python Textbook*** which is available both as an [Online Web Page](http://greenteapress.com/thinkpython/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython/thinkpython.pdf). I have a paper copy, but you do not need to purchase a copy unless you prefer to read a physical book.
+We will be reading primarily from the ***free*** "Think Python" Textbook which is available both as an [Online Web Page](http://greenteapress.com/thinkpython/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython/thinkpython.pdf). 
+
+I have a paper copy, but you do not need to purchase a copy unless you prefer to read a physical book.
 
 ### Inclusivity in Think Python
 
