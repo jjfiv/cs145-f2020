@@ -90,7 +90,7 @@ Look for the Zoom link for your lab in your lab-channel on Slack!
 
 ### Slack
 
-Slack is an online, realtime chat service used by a lot of businesses and other organizinations. We will be using a free slack workspace to:
+Slack is an online, real-time chat service used by a lot of businesses and other organizations. We will be using a free slack workspace to:
 
  - Provide a space for asking questions that is less formal than email and doesn't require a good Zoom connection.
  - Provide a long-lasting chat space, since Zoom chat disappears at the end of a call.
@@ -106,7 +106,7 @@ If you have any trouble getting this installed, reach out in Slack or in Tutorin
 
 #### Online Python Access
 
-If you have a chromebook or cannot install Thonny (please consult with the instructor if this is the case), you will also be able to access Python through a website like [repl.it](https://repl.it/languages/python3). This kind of access to Python will be far less convenient than having it on your personal computer but may be the best choice.
+If you have a Chromebook or cannot install Thonny (please consult with the instructor if this is the case), you will also be able to access Python through a website like [repl.it](https://repl.it/languages/python3). This kind of access to Python will be far less convenient than having it on your personal computer but may be the best choice.
 
 ### Logisim
 
@@ -171,13 +171,13 @@ When you get the opportunity to discuss your work with other students, ensure th
 
 Because the solutions to our projects (in this course) are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stackoverflow. ***A working solution you do not understand has no value to your learning.*** 
 
-## Universal Access & Accomodations
+## Universal Access & Accommodations
 
-The Disability Resource Center (DRC) at Middlebury provides for student accomodation in courses. 
+The Disability Resource Center (DRC) at Middlebury provides for student accommodation in courses. 
 
 > The DRC provides support for students with disabilities and facilitates the accommodations process by helping students understand the resources and options available and by helping faculty understand how to increase access and full participation in courses. The DRC can also provide referrals for students who would like to undergo diagnostic testing. Students who are on financial aid and have never undergone diagnostic testing can apply to the CTLR for support to cover the cost of off-campus testing. DRC services are free to all students.
 
-If you have any accomodations through this office, please notify the instructor as soon as possible at the start of the semester so that your accomodation can be supported as quickly as possible.
+If you have any accommodations through this office, please notify the instructor as soon as possible at the start of the semester so that your accommodation can be supported as quickly as possible.
 
 I try to create course materials with "Universal Design" in mind: that is, I try to make it so that all materials can be accomplished fairly by all students: for example, I schedule double the expected time by default on all exams.
 
