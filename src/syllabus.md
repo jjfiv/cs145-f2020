@@ -86,10 +86,11 @@ Since this course will be run virtually we will need to use software in addition
 
 If you have any questions about comptuer access, please don't hesitate to contact me ASAP - [johnf@middlebury.edu](mailto:johnf@middlebury.edu) - there are options through both the College and Department. Some more details are below, but I'm happy to help you navigate these systems.
 
-If you ever find yourself temporarily in need of a laptop, the Computer Science department has 10 rotating Dell laptops available to our students. These come pre-installed with software for most of the courses in the major. They are available to be loaned out short-term or long-term. Please get in touch ahead of time if you think you might need one. Due to COVID-19, short-term loans may be trickier than usual.
-
-***On Long-Term Use:*** College policy has changed recently to include the expectation for every student to have a laptop available. The college provides laptops to those who need them where “need” is based on Student Financial Services calculations. If you anticipate needing a laptop for the whole term, we encourage you to inquire with Student Financial Services and the library first due to our smaller pool of equipment. However, our department commits to meeting the needs of every student, so do not be afraid to reach out if you believe you need one of our laptops for any length of time. 
-
+> If you ever find yourself temporarily in need of a laptop, the Computer Science department has 10 rotating Dell laptops available to our students. These come pre-installed with software for most of the courses in the major. They are available to be loaned out short-term or long-term. Please get in touch ahead of time if you think you might need one. Due to COVID-19, short-term loans may be trickier than usual.
+> 
+> ***On Long-Term Use:*** College policy has changed recently to include the expectation for every student to have a laptop available. The college provides laptops to those who need them where “need” is based on Student Financial Services calculations. If you anticipate needing a laptop for the whole term, we encourage you to inquire with Student Financial Services and the library first due to our smaller pool of equipment. However, our department commits to meeting the needs of every student, so do not be afraid to reach out if you believe you need one of our laptops for any length of time. 
+>
+> From Robert Lichenstein (rlichenstein@), lightly edited.
 
 ### Zoom (emphasizing synchronous audio)
 
