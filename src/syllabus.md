@@ -82,6 +82,15 @@ Given the textbook and a variety of online materials that are available, the pri
 
 Since this course will be run virtually we will need to use software in addition to the course-specific software we would ordinarily setup and use.
 
+### Computer / Laptop Access
+
+If you have any questions about comptuer access, please don't hesitate to contact me ASAP - [johnf@middlebury.edu](mailto:johnf@middlebury.edu) - there are options through both the College and Department. Some more details are below, but I'm happy to help you navigate these systems.
+
+If you ever find yourself temporarily in need of a laptop, the Computer Science department has 10 rotating Dell laptops available to our students. These come pre-installed with software for most of the courses in the major. They are available to be loaned out short-term or long-term. Please get in touch ahead of time if you think you might need one. Due to COVID-19, short-term loans may be trickier than usual.
+
+***On Long-Term Use:*** College policy has changed recently to include the expectation for every student to have a laptop available. The college provides laptops to those who need them where “need” is based on Student Financial Services calculations. If you anticipate needing a laptop for the whole term, we encourage you to inquire with Student Financial Services and the library first due to our smaller pool of equipment. However, our department commits to meeting the needs of every student, so do not be afraid to reach out if you believe you need one of our laptops for any length of time. 
+
+
 ### Zoom (emphasizing synchronous audio)
 
 Our synchronous lab times will be conducted over Zoom, where we will occasionally use breakout rooms or share screens but we will focus on getting started with and having real-time discussions about the new projects each week. It is likely Zoom will be required for many of your other courses.
@@ -90,7 +99,7 @@ Look for the Zoom link for your lab in your lab-channel on Slack!
 
 ### Slack
 
-Slack is an online, real-time chat service used by a lot of businesses and other organizations. We will be using a free slack workspace to:
+Slack is an online, real-time chat service used by a lot of businesses and other organizations. We will be using our free [slack workspace](http://midd-cs145-fall2020.slack.com) to:
 
  - Provide a space for asking questions that is less formal than email and doesn't require a good Zoom connection.
  - Provide a long-lasting chat space, since Zoom chat disappears at the end of a call.
@@ -110,7 +119,7 @@ If you have a Chromebook or cannot install Thonny (please consult with the instr
 
 ### Logisim
 
-Later in the course, we will explore how computers are constructed out of electrical logic gates and transistors. Logisim is software that will allow us to "build circuits" on our computers and test them. We will learn to install & use this software together, later in the course. 
+Later in the course, we will explore how computers are constructed out of electrical logic gates and transistors. [Logisim](http://www.cburch.com/logisim/index.html) is software that will allow us to "build circuits" on our computers and test them. We will learn to install & use this software together, later in the course.
 
 ## Course Structure
 
@@ -124,7 +133,7 @@ In order to simplify our management of the course, the goal is for us to have co
 
 #### Mondays: Readings & Homework
 
-Video Content & Weekly "Quiz" will be made available so you can begin reading, discussing, and trying examples whenever you start every Monday.
+Video Content & Weekly Homework "Quiz" will be made available so you can begin reading, discussing, and trying examples whenever you start every Monday.
 
 #### Wednesdays: Projects Due & Available
 
@@ -134,11 +143,11 @@ The project for the previous week will be due Wednesday at Midnight.
 
 #### Thursdays/Fridays: Lab Session
 
-Lab sessions W,X,Y and Z are scheduled on Thursdays & Fridays. It is important that you come to the beginning of the lab section even if you feel you have managed to complete the weekly project and readings independently.
+Lab sessions are scheduled on Thursdays & Fridays. It is important that you come to the beginning of the lab section even if you feel you have managed to complete the weekly project and readings independently.
 
 ### Deadline Conflicts
 
-While projects are formally due every Wednesday, if you have recurring family or work responsibilities on Wednesdays, please let the instructor know as soon as possible, and we can work out a more feasible deadline for your situation. The value in a schedule is not usually the exact hard deadlines but rather in ensuring that our learning proceeds together, at a reasonable pace.
+While projects are formally due every Wednesday, if you have recurring family or work responsibilities on Wednesdays, please let the instructor know as soon as possible, and we can work out a more feasible deadline for your situation. The value in a schedule is not usually the exact hard deadlines but rather in ensuring that our learning proceeds together, at a reasonable pace. The other importance of deadlines is ensuring that the graders and myself can get you timely and helpful feedback!
 
 ## Grading Information
 
@@ -208,9 +217,40 @@ When projects become available on Wednesdays, you'll want to be wrapping up your
 
 ## Preliminary Schedule
 
+This is quite a strange semester and time in the world -- this schedule represents my best guess about the future -- something will have to change. Check the online version on Canvas? for the latest.
+
 | Week | Start  | Discussion Topics | Readings | Projects Topics | 
 |------|--------|-------------------|----------|-------------------|
 | 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | P0: Slack, Thonny |
 | 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | P1: Variables & Arithmetic |
 | 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | P2: Decisions/Recursion |
 | 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | P3: Recursion/Loops |
+
+---
+
+## Inclusivity & Discussions
+
+It is important to me to create an inclusive learning environment where diversity and individual differences are respected and recognized as a source of strength. However, this must be a team effort so I expect you to join me in fostering such an environment. This class will represent a diversity of individual backgrounds and experiences, and every member is expected to show respect for every other member so that everyone can learn in this space. If you experience or witness any behavior that opposes this idea, it would be helpful for me to know so that I can address it, but I do recognize that this is additional work and may be difficult. If you are comfortable reporting such incidents, there are a few ways you can do so:
+
+- Email / Slack / Talk to me
+- Report it to our anonymous anonymous [CS departmental climate feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf_C43jVM0KDksPt1YfECx8ifWI-UA_l0tTZHYJuYCmQN60ow/viewform?usp=sf_link)
+- Fill out a [Bias Incident Report](https://middlebury-advocate.symplicity.com/public_report/index.php/pid043605?) which goes to the Middlebury Community Bias Response Team
+
+You belong in this class and in the computer science department. Thank you for being here and for contributing to this course. 
+
+### Discussions should be Respectful
+
+We will be using slack for the majority of course communication, as well as discussion of homework and reading questions. It is often difficult to convey tone -- especially with sarcasm or jokes -- in writing. We should all strive to be clear, welcoming, and respectful of others at all times.
+
+Everyone is coming to this course with different backgrounds, and there is definitely no such thing as a "silly" question. If you are sharing your knowledge with others, or seeking their knowledge you must do so respectfully.
+
+### Pronouns and Identity
+
+I will use your preferred gender pronouns and name, and I expect you to use the names and pronouns your classmates prefer. (I understand that some students may be in the process of exploring their gender identity, may not feel comfortable sharing a gender pronoun, or may not go by gender pronouns; you can let me know if you do not want to share a gender pronoun.)
+
+You will notice that I have my pronouns listed in my slack display & full names. I encourage you to do the same if you feel comfortable.
+
+If you are communicating about another student and do not know their pronouns, go ahead and use their whole name to refer to them e.g., -- "I agree with @johnf.". You will notice that I also use they/them when referring to a hypothetical student.
+
+## Additional Resources
+
