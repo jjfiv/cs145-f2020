@@ -56,9 +56,9 @@ This is an introductory computer science class and ***no prior experience is exp
 
 The primary mode of content delivery will be through readings and the homework, which is designed to highlight and encourage discussion over particular aspects of the readings. 
 
-### Textbook: Think Python
+### Textbook: Think Python (2e)
 
-We will be reading primarily from the ***free*** "Think Python" Textbook which is available both as an [Online Web Page](http://greenteapress.com/thinkpython/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython/thinkpython.pdf). 
+We will be reading primarily from the ***free*** "Think Python" Textbook which is available both as an [Online Web Page](http://greenteapress.com/thinkpython2/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf). 
 
 I have a paper copy, but you do not need to purchase a copy unless you prefer to read a physical book.
 
@@ -81,6 +81,12 @@ Given the textbook and a variety of online materials that are available, the pri
 ## Course Equipment & Software
 
 Since this course will be run virtually we will need to use software in addition to the course-specific software we would ordinarily setup and use.
+
+### Computer Science Laptop Opportunities
+
+If you ever find yourself temporarily in need of a laptop, the Computer Science department has 10 rotating Dell laptops available to our students. These come pre-installed with software for most of the courses in the major. They are available to be loaned out short-term or long-term based on your need (as determined by you). Feel free to ask your professor ahead of time if you think you need one for just a class period, or you can send an e-mail to [rlichenstein@middlebury.edu](mailto:rlichenstein@middlebury.edu) directly.
+
+***On Long-Term Use:*** College policy has changed recently to include the expectation that every student have a laptop available. The college provides laptops to those who need them where “need” is based on Student Financial Services calculations. If you anticipate needing a laptop for the whole term, we encourage you to inquire with Student Financial Services and the library first due to our smaller pool of equipment. However, our department commits to meeting the needs of every student, so do not be afraid to reach out if you believe you need one of our laptops for any length of time. 
 
 ### Zoom (emphasizing synchronous audio)
 
@@ -210,7 +216,7 @@ When projects become available on Wednesdays, you'll want to be wrapping up your
 
 | Week | Start  | Discussion Topics | Readings | Projects Topics | 
 |------|--------|-------------------|----------|-------------------|
-| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | P0: Slack, Thonny |
-| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | P1: Variables & Arithmetic |
-| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | P2: Decisions/Recursion |
-| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | P3: Recursion/Loops |
+| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython2/html/thinkpython2002.html) | P0: Slack, Thonny |
+| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython2/html/thinkpython2003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) | P1: Variables & Arithmetic |
+| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) | P2: Decisions/Recursion |
+| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython2/html/thinkpython2007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) | P3: Recursion/Loops |

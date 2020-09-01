@@ -2,3 +2,4 @@ site
 venv
 *.swp
 *.docx
+*.bak
