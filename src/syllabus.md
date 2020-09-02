@@ -16,8 +16,10 @@ An online, always up-to-date version of [this syllabus can be found online](http
     - Y - Thursday - 3-3:15pm
     - Z - Friday - 10:20-11:10am
 - Office Hours
-    - TBD
-    - Always by appointment: message me in Slack and we can find a time to chat.
+    - Office Hours or "Student Hours" are times when I am available for you to discuss aspects of the course, Computer Science, Middlebury, your plans, your questions about college in general, or really anything else I might be able to help with.
+    - Always by appointment: 
+        - [Schedule a 15, 20 or 30-minute meeting with me](https://calendly.com/jjfoley). Calendly is a service that lets you drop a meeting on my calendar whenever I'm free. I will guarantee I can make anything with 24 hours notice, but I will try my best with anything sooner.
+        - Message me in Slack and we can find a time to chat if those normal business hours don't work for you.
 
 ## Course Description
 
@@ -234,7 +236,7 @@ This is quite a strange semester and time in the world -- this schedule represen
 It is important to me to create an inclusive learning environment where diversity and individual differences are respected and recognized as a source of strength. However, this must be a team effort so I expect you to join me in fostering such an environment. This class will represent a diversity of individual backgrounds and experiences, and every member is expected to show respect for every other member so that everyone can learn in this space. If you experience or witness any behavior that opposes this idea, it would be helpful for me to know so that I can address it, but I do recognize that this is additional work and may be difficult. If you are comfortable reporting such incidents, there are a few ways you can do so:
 
 - Email / Slack / Talk to me
-- Report it to our anonymous anonymous [CS departmental climate feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf_C43jVM0KDksPt1YfECx8ifWI-UA_l0tTZHYJuYCmQN60ow/viewform?usp=sf_link)
+- Report it to our anonymous [CS departmental climate feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf_C43jVM0KDksPt1YfECx8ifWI-UA_l0tTZHYJuYCmQN60ow/viewform?usp=sf_link)
 - Fill out a [Bias Incident Report](https://middlebury-advocate.symplicity.com/public_report/index.php/pid043605?) which goes to the Middlebury Community Bias Response Team
 
 You belong in this class and in the computer science department. Thank you for being here and for contributing to this course. 
