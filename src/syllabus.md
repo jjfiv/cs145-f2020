@@ -86,7 +86,7 @@ Since this course will be run virtually we will need to use software in addition
 
 ### Computer / Laptop Access
 
-If you have any questions about comptuer access, please don't hesitate to contact me ASAP - [johnf@middlebury.edu](mailto:johnf@middlebury.edu) - there are options through both the College and Department. Some more details are below, but I'm happy to help you navigate these systems.
+If you have any questions about computer access, please don't hesitate to contact me ASAP - [johnf@middlebury.edu](mailto:johnf@middlebury.edu) - there are options through both the College and Department. Some more details are below, but I'm happy to help you navigate these systems.
 
 > If you ever find yourself temporarily in need of a laptop, the Computer Science department has 10 rotating Dell laptops available to our students. These come pre-installed with software for most of the courses in the major. They are available to be loaned out short-term or long-term. Please get in touch ahead of time if you think you might need one. Due to COVID-19, short-term loans may be trickier than usual.
 > 
@@ -181,7 +181,7 @@ Work in computer science may often feel like a strange mix of art, language, mat
 
 When you get the opportunity to discuss your work with other students, ensure that everyone leaves the group discussion with the same level of understanding. ***A working solution you do not understand has no value to your learning.***
 
-Because the solutions to our projects (in this course) are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stackoverflow. ***A working solution you do not understand has no value to your learning.*** 
+Because the solutions to our projects (in this course) are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stack-overflow. ***A working solution you do not understand has no value to your learning.*** 
 
 ## Universal Access & Accommodations
 
