@@ -16,8 +16,10 @@ An online, always up-to-date version of [this syllabus can be found online](http
     - Y - Thursday - 3-3:15pm
     - Z - Friday - 10:20-11:10am
 - Office Hours
-    - TBD
-    - Always by appointment: message me in Slack and we can find a time to chat.
+    - Office Hours or "Student Hours" are times when I am available for you to discuss aspects of the course, Computer Science, Middlebury, your plans, your questions about college in general, or really anything else I might be able to help with.
+    - Always by appointment: 
+        - [Schedule a 15, 20 or 30-minute meeting with me](https://calendly.com/jjfoley). Calendly is a service that lets you drop a meeting on my calendar whenever I'm free. I will guarantee I can make anything with 24 hours notice, but I will try my best with anything sooner.
+        - Message me in Slack and we can find a time to chat if those normal business hours don't work for you.
 
 ## Course Description
 
@@ -56,9 +58,9 @@ This is an introductory computer science class and ***no prior experience is exp
 
 The primary mode of content delivery will be through readings and the homework, which is designed to highlight and encourage discussion over particular aspects of the readings. 
 
-### Textbook: Think Python
+### Textbook: Think Python (2e)
 
-We will be reading primarily from the ***free*** "Think Python" Textbook which is available both as an [Online Web Page](http://greenteapress.com/thinkpython/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython/thinkpython.pdf). 
+We will be reading primarily from the ***free*** "Think Python" Textbook which is available both as an [Online Web Page](http://greenteapress.com/thinkpython2/html/index.html) and as a [downloadable PDF](http://greenteapress.com/thinkpython2/thinkpython2.pdf). 
 
 I have a paper copy, but you do not need to purchase a copy unless you prefer to read a physical book.
 
@@ -84,7 +86,7 @@ Since this course will be run virtually we will need to use software in addition
 
 ### Computer / Laptop Access
 
-If you have any questions about comptuer access, please don't hesitate to contact me ASAP - [johnf@middlebury.edu](mailto:johnf@middlebury.edu) - there are options through both the College and Department. Some more details are below, but I'm happy to help you navigate these systems.
+If you have any questions about computer access, please don't hesitate to contact me ASAP - [johnf@middlebury.edu](mailto:johnf@middlebury.edu) - there are options through both the College and Department. Some more details are below, but I'm happy to help you navigate these systems.
 
 > If you ever find yourself temporarily in need of a laptop, the Computer Science department has 10 rotating Dell laptops available to our students. These come pre-installed with software for most of the courses in the major. They are available to be loaned out short-term or long-term. Please get in touch ahead of time if you think you might need one. Due to COVID-19, short-term loans may be trickier than usual.
 > 
@@ -179,7 +181,7 @@ Work in computer science may often feel like a strange mix of art, language, mat
 
 When you get the opportunity to discuss your work with other students, ensure that everyone leaves the group discussion with the same level of understanding. ***A working solution you do not understand has no value to your learning.***
 
-Because the solutions to our projects (in this course) are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stackoverflow. ***A working solution you do not understand has no value to your learning.*** 
+Because the solutions to our projects (in this course) are short, and there are limited intro-style problems to choose from, it is likely you will be able to find partial or full solutions to problems using online resources such as google or stack-overflow. ***A working solution you do not understand has no value to your learning.*** 
 
 ## Universal Access & Accommodations
 
@@ -216,13 +218,12 @@ I imagine that a successful strategy to learn from the homework & readings will 
 
 When projects become available on Wednesdays, you'll want to be wrapping up your knowledge from the readings so that you will be ready to work on the new assignment in the second half of lab.
 
-
 ## Inclusivity & Discussions
 
 It is important to me to create an inclusive learning environment where diversity and individual differences are respected and recognized as a source of strength. However, this must be a team effort so I expect you to join me in fostering such an environment. This class will represent a diversity of individual backgrounds and experiences, and every member is expected to show respect for every other member so that everyone can learn in this space. If you experience or witness any behavior that opposes this idea, it would be helpful for me to know so that I can address it, but I do recognize that this is additional work and may be difficult. If you are comfortable reporting such incidents, there are a few ways you can do so:
 
 - Email / Slack / Talk to me
-- Report it to our anonymous anonymous [CS departmental climate feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf_C43jVM0KDksPt1YfECx8ifWI-UA_l0tTZHYJuYCmQN60ow/viewform?usp=sf_link)
+- Report it to our anonymous [CS departmental climate feedback form](https://docs.google.com/forms/d/e/1FAIpQLSf_C43jVM0KDksPt1YfECx8ifWI-UA_l0tTZHYJuYCmQN60ow/viewform?usp=sf_link)
 - Fill out a [Bias Incident Report](https://middlebury-advocate.symplicity.com/public_report/index.php/pid043605?) which goes to the Middlebury Community Bias Response Team
 
 You belong in this class and in the computer science department. Thank you for being here and for contributing to this course. 
@@ -249,18 +250,18 @@ Note especially the dates for the online midterm -- you'll want to make sure you
 
 | Week | Start  | Discussion Topics | Readings | Projects Topics | 
 |------|--------|-------------------|----------|-------------------|
-| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | P0: Slack, Thonny |
-| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | P1: Variables & Arithmetic |
-| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | P2: Decisions/Recursion |
-| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | P3: Recursion/Loops | P3: More Recursion |
-| 4    | 5 Oct | Strings, Lists & Loops | [Ch8: Strings](http://greenteapress.com/thinkpython/html/thinkpython009.html); [Ch10: Lists and Loops](http://greenteapress.com/thinkpython/html/thinkpython011.html) | P4: Loops |
-| 5    | 12 Oct | Dictionaries, Sets & Tuples | [Ch11: Dictionaries](http://greenteapress.com/thinkpython/html/thinkpython012.html); Sets; [Ch12: Tuples](http://greenteapress.com/thinkpython/html/thinkpython013.html) | P5: Data Structures |
+| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython2/html/thinkpython2002.html) | P0: Slack, Thonny |
+| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython2/html/thinkpython2003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython2/html/thinkpython2004.html) | P1: Variables & Arithmetic |
+| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython2/html/thinkpython2006.html) | P2: Decisions/Recursion |
+| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython2/html/thinkpython2007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython2/html/thinkpython2008.html) | P3: Recursion/Loops | P3: More Recursion |
+| 4    | 5 Oct | Strings, Lists & Loops | [Ch8: Strings](http://greenteapress.com/thinkpython2/html/thinkpython2009.html); [Ch10: Lists and Loops](http://greenteapress.com/thinkpython2/html/thinkpython2011.html) | P4: Loops |
+| 5    | 12 Oct | Dictionaries, Sets & Tuples | [Ch11: Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html); Sets; [Ch12: Tuples](http://greenteapress.com/thinkpython2/html/thinkpython2013.html) | P5: Data Structures |
 | 6    | 19 Oct | Binary Numbers & Midterm Review | TBD | P6: Binary Worksheet |
 | -    | 23-25 Oct | Electronic-Midterm: Fri/Sat/Sun | Cumulative | - |
-| 7    | 26 Oct | Files, Images, Sounds | [Ch14: Files](http://greenteapress.com/thinkpython/html/thinkpython015.html); Sounds & Images | P7: Files |
+| 7    | 26 Oct | Files, Images, Sounds | [Ch14: Files](http://greenteapress.com/thinkpython2/html/thinkpython2015.html); Sounds & Images | P7: Files |
 | 8    | 2 Nov | Logic & Circuits | Logic, Circuits, Architecture | P8: Logisim |
-| 9    | 9 Nov | Assembly Language; Objects | Assembly; [Ch15: Classes and Objects](http://greenteapress.com/thinkpython/html/thinkpython016.html) | P9: hmmm |
-| 10   | 16 Nov | More OOP | [Ch16: Classes and Functions](http://greenteapress.com/thinkpython/html/thinkpython017.html), [Ch17: Classes and Methods](http://greenteapress.com/thinkpython/html/thinkpython018.html) | Final Project Begins |
+| 9    | 9 Nov | Assembly Language; Objects | Assembly; [Ch15: Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) | P9: hmmm |
+| 10   | 16 Nov | More OOP | [Ch16: Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html), [Ch17: Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) | Final Project Begins |
 | -    | 25 Nov | Thanksgiving; Go Home | - | ... |
 | 11   | 30 Nov | Complexity | TBD | Finish Final Project |
 | Finals | 7 Dec | Final Exam | | |
