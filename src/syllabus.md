@@ -216,18 +216,6 @@ I imagine that a successful strategy to learn from the homework & readings will 
 
 When projects become available on Wednesdays, you'll want to be wrapping up your knowledge from the readings so that you will be ready to work on the new assignment in the second half of lab.
 
-## Preliminary Schedule
-
-This is quite a strange semester and time in the world -- this schedule represents my best guess about the future -- something will have to change. Check the online version on Canvas? for the latest.
-
-| Week | Start  | Discussion Topics | Readings | Projects Topics | 
-|------|--------|-------------------|----------|-------------------|
-| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | P0: Slack, Thonny |
-| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | P1: Variables & Arithmetic |
-| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | P2: Decisions/Recursion |
-| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | P3: Recursion/Loops |
-
----
 
 ## Inclusivity & Discussions
 
@@ -253,5 +241,28 @@ You will notice that I have my pronouns listed in my slack display & full names.
 
 If you are communicating about another student and do not know their pronouns, go ahead and use their whole name to refer to them e.g., -- "I agree with @johnf.". You will notice that I also use they/them when referring to a hypothetical student.
 
-## Additional Resources
+## Preliminary Schedule
 
+This is quite a strange semester and time in the world -- this schedule represents my best guess about the future -- something will have to change. Check the online version on Canvas? for the latest.
+
+Note especially the dates for the online midterm -- you'll want to make sure you have at least 2 hours of focus on the weekend of 23-25 of October. Contact me ASAP if there is an issue that weekend.
+
+| Week | Start  | Discussion Topics | Readings | Projects Topics | 
+|------|--------|-------------------|----------|-------------------|
+| 0    | 8 Sept | What is CS? Languages | [Ch1: Languages](http://greenteapress.com/thinkpython/html/thinkpython002.html) | P0: Slack, Thonny |
+| 1    | 14 Sept | Variables, Strings, Functions | [Ch2: Variables](http://greenteapress.com/thinkpython/html/thinkpython003.html); [Ch3: Functions & Modules](http://greenteapress.com/thinkpython/html/thinkpython004.html) | P1: Variables & Arithmetic |
+| 2    | 21 Sept | Conditionals & Recursion | [Ch5: Conditionals & Recursion](http://greenteapress.com/thinkpython/html/thinkpython006.html) | P2: Decisions/Recursion |
+| 3    | 28 Sept | Recursion & Loops | [Ch6: Return Values](http://greenteapress.com/thinkpython/html/thinkpython007.html); [Ch7: Iteration](http://greenteapress.com/thinkpython/html/thinkpython008.html) | P3: Recursion/Loops | P3: More Recursion |
+| 4    | 5 Oct | Strings, Lists & Loops | [Ch8: Strings](http://greenteapress.com/thinkpython/html/thinkpython009.html); [Ch10: Lists and Loops](http://greenteapress.com/thinkpython/html/thinkpython011.html) | P4: Loops |
+| 5    | 12 Oct | Dictionaries, Sets & Tuples | [Ch11: Dictionaries](http://greenteapress.com/thinkpython/html/thinkpython012.html); Sets; [Ch12: Tuples](http://greenteapress.com/thinkpython/html/thinkpython013.html) | P5: Data Structures |
+| 6    | 19 Oct | Binary Numbers & Midterm Review | TBD | P6: Binary Worksheet |
+| -    | 23-25 Oct | Electronic-Midterm: Fri/Sat/Sun | Cumulative | - |
+| 7    | 26 Oct | Files, Images, Sounds | [Ch14: Files](http://greenteapress.com/thinkpython/html/thinkpython015.html); Sounds & Images | P7: Files |
+| 8    | 2 Nov | Logic & Circuits | Logic, Circuits, Architecture | P8: Logisim |
+| 9    | 9 Nov | Assembly Language; Objects | Assembly; [Ch15: Classes and Objects](http://greenteapress.com/thinkpython/html/thinkpython016.html) | P9: hmmm |
+| 10   | 16 Nov | More OOP | [Ch16: Classes and Functions](http://greenteapress.com/thinkpython/html/thinkpython017.html), [Ch17: Classes and Methods](http://greenteapress.com/thinkpython/html/thinkpython018.html) | Final Project Begins |
+| -    | 25 Nov | Thanksgiving; Go Home | - | ... |
+| 11   | 30 Nov | Complexity | TBD | Finish Final Project |
+| Finals | 7 Dec | Final Exam | | |
+
+---

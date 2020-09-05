@@ -16,3 +16,7 @@ This course is the primary introduction to the Computer Science major or minor a
 ## Waiver Policy
 
 Juniors and Seniors are by waiver in this course in order to prioritize those using it as a gateway to the Major. Anyone with interest will be allowed to take the course, limited only by not wanting to overwhelm the course staff (ASIs, TAs, etc.).
+
+## Syllabus
+
+See more detailed information about the course in the [online syllabus](/syllabus.html).
