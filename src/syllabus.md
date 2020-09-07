@@ -13,7 +13,7 @@ An online, always up-to-date version of [this syllabus can be found online](http
 - Discussions / Lab Sections
     - W - Thursday - 10-10:50am
     - X - Thursday - 2-2:50pm
-    - Y - Thursday - 3-3:15pm
+    - Y - Thursday - 3:15-4:05pm
     - Z - Friday - 10:20-11:10am
 - Office Hours
     - Office Hours or "Student Hours" are times when I am available for you to discuss aspects of the course, Computer Science, Middlebury, your plans, your questions about college in general, or really anything else I might be able to help with.
