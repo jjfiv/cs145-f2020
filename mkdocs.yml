@@ -21,3 +21,4 @@ markdown_extensions:
 nav:
     - 'About': 'index.md'
     - 'syllabus.md'
+    - 'colors_ref.md'
