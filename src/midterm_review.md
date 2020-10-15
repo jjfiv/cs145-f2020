@@ -1,0 +1,53 @@
+# Midterm Concepts
+
+ - int vs. float
+ - operators: +, -, *, **, /, //, %
+ - semantic errors
+ - syntax errors
+ - runtime errors
+ - script vs. shell
+ - variable assignment
+ - comments
+ - reassignment
+ - functions
+ - printing
+ - parameters
+ - arguments
+ - local variables
+ - declaration order - functions
+ - reassignment order - variables
+ - functions that take functions as parameters
+ - "fruitful functions"
+ - return
+ - function composition
+ - if/else
+ - elif (chained conditionals)
+ - and/or/not
+ - recursion
+ - base case
+ - recursive step
+ - RecursionError
+ - input function
+ - basic turtles
+ - random.randint
+ - while loops
+ - incrementing variables
+ - isinstance
+ - break
+ - X in Y
+ - for n in range(...)
+ - for letter in string
+ - for item in list
+ - for key in dictionary
+ - indexing
+ - slicing
+ - list.append
+ - len(list)
+ - len(string)
+ - len(dict)
+ - empty strings
+ - for index,item in enumerate(list)
+ - aliasing for lists
+ - dictionary[] insert
+ - dictionary[] lookup/crash
+ - dictionary.get(key, backup)
