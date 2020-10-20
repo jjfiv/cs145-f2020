@@ -1,4 +1,8 @@
-# Midterm Concepts
+# Midterm Information
+
+The Midterm will be on Canvas; and it will be 60-70% multiple choice, like our homeworks, and will be available self-scheduled over the weekend.
+
+## Midterm Concepts
 
  - int vs. float
  - operators: ``+``, ``-``, ``*``, ``**``, ``/``, ``//``, ``%``
