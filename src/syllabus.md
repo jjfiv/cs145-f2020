@@ -258,7 +258,7 @@ Note especially the dates for the online midterm -- you'll want to make sure you
 | 5    | 12 Oct | Dictionaries, & Tuples | [Ch11: Dictionaries](http://greenteapress.com/thinkpython2/html/thinkpython2012.html); Sets; [Ch12: Tuples](http://greenteapress.com/thinkpython2/html/thinkpython2013.html) | P5: Data Structures |
 | 6    | 19 Oct | Midterm Review | Practice Midterm | Electronic-Midterm |
 | -    | 23-25 Oct | Electronic-Midterm: Fri/Sat/Sun | Cumulative | - |
-| 7    | 26 Oct | Files & Data: Images, Sounds | [Ch9: Files "WordPlay"](http://greenteapress.com/thinkpython2/html/thinkpython2010.html); Sounds & Images | P6: Files |
+| 7    | 26 Oct | Files & Data: Images, Sounds | [Ch9: Files "WordPlay"](http://greenteapress.com/thinkpython2/html/thinkpython2010.html); [Files & Data](/files_and_data.html) | P6: Files |
 | 8    | 2 Nov | Logic & Circuits | Logic, Circuits, Architecture | P7: Logisim |
 | 9    | 9 Nov | Assembly Language; Objects | Assembly; [Ch15: Classes and Objects](http://greenteapress.com/thinkpython2/html/thinkpython2016.html) | P8: hmmm |
 | 10   | 16 Nov | More OOP | [Ch16: Classes and Functions](http://greenteapress.com/thinkpython2/html/thinkpython2017.html), [Ch17: Classes and Methods](http://greenteapress.com/thinkpython2/html/thinkpython2018.html) | Final Project Begins |

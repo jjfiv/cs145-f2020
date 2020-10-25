@@ -16,6 +16,7 @@ markdown_extensions:
     - tables
     - nl2br
     - mdx_math
+    - attr_list
 # Reading: 📖
 # Video: 📺
 nav:
@@ -23,3 +24,4 @@ nav:
     - 'syllabus.md'
     - 'colors_ref.md'
     - 'midterm_review.md'
+    - 'files_and_data.md'
