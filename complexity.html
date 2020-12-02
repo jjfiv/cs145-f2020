@@ -1,0 +1,384 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" > <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+  <meta name="author" content="John Foley <johnf@middlebury.edu>">
+  
+  <link rel="shortcut icon" href="img/favicon.ico">
+  <title>Complexity - Introduction to Computing</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lato:400,700|Roboto+Slab:400,700|Inconsolata:400,700" />
+
+  <link rel="stylesheet" href="css/theme.css" />
+  <link rel="stylesheet" href="css/theme_extra.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" />
+  
+  <script>
+    // Current page data
+    var mkdocs_page_name = "Complexity";
+    var mkdocs_page_input_path = "complexity.md";
+    var mkdocs_page_url = null;
+  </script>
+  
+  <script src="js/jquery-2.1.1.min.js" defer></script>
+  <script src="js/modernizr-2.8.3.min.js" defer></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/highlight.min.js"></script>
+  <script>hljs.initHighlightingOnLoad();</script> 
+<style>
+    blockquote {
+        font-style: italic;
+    }
+</style>
+<script type="text/javascript" async
+        src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+        </script>
+    <script type="text/x-mathjax-config;executed=true">
+        MathJax.Hub.Config({
+            config: ["Accessible.js", "Safe.js"],
+            errorSettings: { message: ["!"] },
+            skipStartupTypeset: true,
+            messageStyle: "none"
+        });
+    </script>
+
+  
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+
+    
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+        <a href="." class="icon icon-home"> Introduction to Computing</a>
+        <div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="./search.html" method="get">
+    <input type="text" name="q" placeholder="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="main navigation">
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="index.html">About</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="syllabus.html">Syllabus</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="colors_ref.html">Graphics Q&A</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="midterm_review.html">Midterm Information</a>
+                    </li>
+                </ul>
+                <ul>
+                    <li class="toctree-l1"><a class="reference internal" href="files_and_data.html">Files and Data</a>
+                    </li>
+                </ul>
+                <ul class="current">
+                    <li class="toctree-l1 current"><a class="reference internal current" href="complexity.html">Complexity</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#add-five-to-a-number">Add Five to a Number</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#a-strategy-count-lines-of-code">A Strategy: Count Lines of Code</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#strategy-count-statements">Strategy: Count Statements</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#count-the-sum-of-the-numbers-from-1-to-n">Count the sum of the numbers from 1 to N</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#big-o-notation-what-does-significant-mean">Big-O notation: What does significant mean?</a>
+        <ul>
+    <li class="toctree-l3"><a class="reference internal" href="#what-about-calling-methods">What about calling methods?</a>
+    </li>
+    <li class="toctree-l3"><a class="reference internal" href="#what-about-sometimes">What about sometimes?</a>
+    </li>
+        </ul>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#conclusion">Conclusion</a>
+    </li>
+    </ul>
+                    </li>
+                </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+
+      
+      <nav class="wy-nav-top" role="navigation" aria-label="top navigation">
+        <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+        <a href=".">Introduction to Computing</a>
+      </nav>
+
+      
+      <div class="wy-nav-content">
+        <div class="rst-content">
+          <div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".">Docs</a> &raquo;</li>
+    
+      
+    
+    <li>Complexity</li>
+    <li class="wy-breadcrumbs-aside">
+      
+        <a href="https://github.com/jjfiv/cs145-f2020/tree/master/src/complexity.md"
+          class="icon icon-github"> Edit on Github</a>
+      
+    </li>
+  </ul>
+  
+  <hr/>
+</div>
+          <div role="main">
+            <div class="section">
+              
+                <h1 id="complexity">Complexity</h1>
+<p>We need a new tool: we need a formal way of comparing the efficiency of different pieces of code. </p>
+<p>To say that another way, let's say we come up with two different ways to solve a problem. Which one is better? How do we know? Better for which methods?</p>
+<p>We call this new tool <strong><em>Complexity</em></strong>. Another word for complexity might be <strong><em>difficulty</em></strong>: how difficult is a particular solution. Note that we're entirely uninterested in how difficult it was for us humans, we only care about our computer. How difficult is it for the computer to run our code?</p>
+<h2 id="add-five-to-a-number">Add Five to a Number</h2>
+<p>Let's say we have to write a method that adds five to its input and returns the output. We come up with three solutions to this problem: <code>add_five_a</code>, <code>add_five_b</code>, and <code>add_five_c</code>. Take a moment to read all of them.</p>
+<pre><code class="python"># This option is about as short as we can get it.
+def add_five_a(x):
+    return x + 5
+
+# What if we introduce a variable for output?
+def add_five_b(x):
+    output = x + 5
+    return output
+
+# What if we take as many steps as possible?
+def add_five_c(x):
+    output = x
+    output += 1
+    output += 1
+    output += 1
+    output += 1
+    output += 1
+    return output
+</code></pre>
+
+<ul>
+<li><strong><em>Think:</em></strong> Which solution do you prefer? Why?</li>
+</ul>
+<h3 id="a-strategy-count-lines-of-code">A Strategy: Count Lines of Code</h3>
+<p>One thing you might have thought of is that <code>add_five_a</code> is only 1 line of code: a return statement, whereas <code>add_five_b</code> takes two lines of code and <code>add_five_c</code> is 7 lines of code.</p>
+<p>As a counter-argument to this strategy, consider the following re-writing of <code>addFiveA</code> and <code>addFiveB</code>.</p>
+<pre><code class="python">def add_five_a2(x):
+    # did you know you can have semicolons to add blank statements?
+    ;
+    ;
+    ;
+    ;
+    return x + 5
+
+# ..or to squeeze them all onto one line?
+def add_five_c2(int x):
+    output = x; output += 1; output += 1; output += 1; output += 1; output += 1; return output
+</code></pre>
+
+<p>I just cheated your measure (lines of code)! Now <code>add_five_a2</code> is five lines of code and <code>add_five_c2</code> is only one. The computer has to do the same amount of work as the original <code>add_five_a</code> but now we have a comment, a blank line, and a <code>return</code> statement that's all spread out, and it uses five times as many lines as <code>add_five_c2</code>.</p>
+<p>Lines of code is not a robust measure of coding complexity. If you ever have a manager who requires you to write a certain number of lines of code each day; now you can explain why that's not a fair measure!</p>
+<h3 id="strategy-count-statements">Strategy: Count Statements</h3>
+<p>"Eureka!", you say. "Your evil tricks have led me to the solution. What if we count statements instead of lines. Better than that: what if we count non-empty statements."</p>
+<p>This turns out to be a pretty good strategy. Now we can compare these methods together. You diligently create the following table.</p>
+<table>
+<thead>
+<tr>
+<th>Method Name</th>
+<th>Useful Semicolons</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>add_five_a</code></td>
+<td>1</td>
+</tr>
+<tr>
+<td><code>add_five_b</code></td>
+<td>2</td>
+</tr>
+<tr>
+<td><code>add_five_c</code></td>
+<td>7</td>
+</tr>
+</tbody>
+</table>
+<p>Clearly, <code>add_five_a</code> is the best of these methods, because it has the fewest useful statements. (If you've absorbed how to convert code to assembly, you could imagine counting <strong><em>instructions</em></strong> as a good measure of complexity!)</p>
+<h2 id="count-the-sum-of-the-numbers-from-1-to-n">Count the sum of the numbers from 1 to N</h2>
+<p>Suppose you want to count all the numbers from 1 to N, including N. You quickly code up the following <strong><em>iterative</em></strong> solution:</p>
+<pre><code class="python">def sum_sequence_1(n):
+    out = 0
+    for i in range(1,n):
+        out += i
+    return out
+</code></pre>
+
+<ul>
+<li>Think: New Problem: How do we count the statements in a for-loop?</li>
+</ul>
+<p>This is a classical problem, as it turns out, for which there is an easier algorithm. This is asking for a <a href="https://en.wikipedia.org/wiki/Triangular_number">Triangular Number</a>, and so given any value <code>n</code> we can compute this by directly calcuating it, rather than summing the intermediate numbers.</p>
+<div class="Tangent">Triangular numbers will come up again and again in certain applications, e.g., sorting. Imagine an list algorithm that solves 1 item at a time in a list, until it gets to all \\(n\\) items in the list.</div>
+
+<pre><code class="python"># Formula for triangular numbers: https://en.wikipedia.org/wiki/Triangular_number
+def sum_sequence_2(n):
+    return (n * (n - 1)) / 2
+
+# Again, with steps broken out.
+def sum_sequence_3(n):
+    int result = n * (n - 1)
+    return result / 2
+</code></pre>
+
+<p>Writing some quick code lets us check that the behavior indeed appears to be the same:</p>
+<pre><code class="python"># 1 + 2 + 3 == 6
+print(&quot;S1(3) = &quot;, sum_sequence_1(3));
+print(&quot;S2(3) = &quot;, sum_sequence_2(3));
+# 1 + 2 + .. + 10 == 55
+print(&quot;S1(10) = &quot;, sum_sequence_1(10));
+print(&quot;S2(10) = &quot;, sum_sequence_2(10));
+</code></pre>
+
+<p>This causes some problems for our notion of complexity. When we simulate the for-loop from <code>sum_sequence_1</code> in our head, we find out that it depends on <code>n</code>, the size of the input.</p>
+<pre><code class="python">    # The for-loop from sum_sequence_1, but spread-out with labels (as a while-loop)
+    i = 1         # A: the initializer
+    while i &lt;= n: # B: the loop check
+        out += i  # C: the loop body
+        i += 1    # D: the step-statement
+</code></pre>
+
+<p>We then track each of the loop pieces independently:<br />
+- The initializer: A, runs only once.<br />
+- The loop-check: B, runs \(n+1\) times. It runs before the loop, and then at every step through the loop.<br />
+- The body of the loop: C, runs \(n\) times.<br />
+- The step-statment: D, runs \(n-1\) times. It only runs when the loop-check returns true after the first time through the loop body.</p>
+<p>Woah. That's a lot of work. There are two other statements in the original method, so that brings us to: \( (n+1) + (n-1) + n + 2 \) or \( 3n + 2 \)</p>
+<table>
+<thead>
+<tr>
+<th>Method Name</th>
+<th>Useful Statements</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>sum_sequence_1</code></td>
+<td>\( 3n + 2 \)</td>
+</tr>
+<tr>
+<td><code>sum_sequence_2</code></td>
+<td>\( 1 \)</td>
+</tr>
+<tr>
+<td><code>sum_sequence_3</code></td>
+<td>\( 2 \)</td>
+</tr>
+</tbody>
+</table>
+<p>In this instance, no matter what value \( n \) takes, we should always prefer <code>sum_sequence_2</code>. But this gives us a hint for comparisons that really matter: <code>sum_sequence_1</code> is dramatically worse than <code>sum_sequence_2</code> (from a complexity point-of-view) because it depends on \( n \), the input itself. <code>sum_sequence_3</code> is worse than <code>sum_sequence_2</code>, but not significantly, when \(n\) is large.</p>
+<h2 id="big-o-notation-what-does-significant-mean">Big-O notation: What does significant mean?</h2>
+<p>The <strong><em>time complexity</em></strong> of a method or procedure is always defined in terms of the <strong><em>size of its input</em></strong>, which is notated as \(n\). And it is always a function, e.g., \(f(n) = 3n + 2\) or \(f(n) = n^3 + n\).</p>
+<p>You may have noticed that actually counting the statements in a particular example is quite difficult and tedious. Little stylistic differences, (e.g., do you create a helper variable) appear to matter (<code>sum_sequence_2</code> vs. <code>sum_sequence_3</code>).</p>
+<p>For this reason, we typically use so-called <a href="https://en.wikipedia.org/wiki/Big_O_notation">Big-O Notation</a> when we discuss complexity. It allows us to remove the insignificant differences from our notation. </p>
+<p>Consider the following examples and high-level discussion of what Big-O let's us do.</p>
+<p>\(O(f(n)) = g(n)\) where \(g(n)\) captures the behavior of \(f(n)\) for really big \(n\).</p>
+<p>When powers compete, the biggest power wins, and you ignore coefficients.<br />
+- \(O(n^3 + n^2 + 7) = O(n^3)\)<br />
+- \(O(n^3 + 9000n^2) = O(n^3)\)<br />
+- \(O(n^3 + 9000n^{3.14}) = O(n^{3.14})\)</p>
+<p>It may help to remember that numbers, like \(7\) are equivalent to \(7n^0\), and so they have the lowest power, usually. You don't often see negative powers: \(O(n^{-k})\) ; that would be code that takes less time as the input gets bigger, which isn't very common (for realistic problems).</p>
+<p>Some functions you have seen before have an ordering, bigger on the left, smaller on the right.<br />
+<script type="math/tex; mode=display">O(n!) > O(2^n) > O(n^k) > O(n^2) > O(n\log(n)) > O(n) > O(\log(n)) > O(1)</script>
+</p>
+<h3 id="what-about-calling-methods">What about calling methods?</h3>
+<p>We have defined complexity by counting semicolons, but what happens when you call another method?</p>
+<p>Nothing changes: the complexity of a method hidden by a call is still part of the behavior of the method calling it -- those semicolons/statements are still used.</p>
+<h3 id="what-about-sometimes">What about sometimes?</h3>
+<p>Assuming random number generation is \(O(1)\), what happens if sometimes we use a good algorithm and sometimes we use a bad algorithm?</p>
+<pre><code class="python">import random
+
+def sum_sequence_maybe(n):
+    # 50% of the time, use the closed form, else use the loop.
+    if random.randint(0,1) == 0:
+        # O(1)
+        return (n * (n - 1)) / 2
+    else:
+        # O(n)
+        out = 0
+        for i in range(1,n):
+            out += i
+        return out
+</code></pre>
+
+<p>50% of the time, we have an \(O(1)\) solution to this problem, and 50% of the time we have an \(O(n)\) solution to this problem. Giving that information precisely is the clearest way to describe this method.</p>
+<p>But, usually computer scientists are concerned with the worst-case scenario: we would mark this method as \(O(n)\). If you're a glass-half-empty kind of person, this makes you happy. If not, sometimes we also discuss best-case or average-case complexity. </p>
+<p>Big-O notation can refer to worst-case, best-case, or average-case complexity. If not stated, we will be discussing worst-case complexity, but everyone has their own standards that matter. When in doubt, just ask!</p>
+<h2 id="conclusion">Conclusion</h2>
+<p>Theoretical Complexity is a broad topic and is still an open a research area. We have described complexity as being "like counting statements" along with Big-O notation to provide a general tool to discuss which functions or methods are most efficient, but we have done so quite informally here.</p>
+              
+            </div>
+          </div>
+          
+
+<footer>
+    
+      <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        
+        
+          <a href="files_and_data.html" class="btn btn-neutral" title="Files and Data"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        
+      </div>
+    
+  
+    <hr/>
+  
+    <div style="font-size: 10pt; text-align: center;" role="contentinfo">
+        <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="float:left; border-width:0" height="15" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a>
+        This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>. 
+        <br />
+        Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/snide/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+    </div>
+  
+  </footer>
+  
+      
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="versions">
+    <span class="rst-current-version" data-toggle="rst-current-version">
+      
+      
+        <span><a href="files_and_data.html" style="color: #fcfcfc;">&laquo; Previous</a></span>
+      
+      
+    </span>
+</div>
+    <script>var base_url = '.';</script>
+    <script src="js/theme.js" defer></script>
+      <script src="search/main.js" defer></script>
+    <script defer>
+        window.onload = function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        };
+    </script>
+
+</body>
+</html>
